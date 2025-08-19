@@ -54,7 +54,3 @@ Task added!
 
 Pull requests and suggestions are welcome!  
 Feel free to fork the repository and submit your improvements.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
