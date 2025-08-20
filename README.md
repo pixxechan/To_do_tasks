@@ -50,7 +50,3 @@ Task added!
 
 - [Rust](https://www.rust-lang.org/tools/install)
 
-## Contributing
-
-Pull requests and suggestions are welcome!  
-Feel free to fork the repository and submit your improvements.
